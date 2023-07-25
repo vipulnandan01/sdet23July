@@ -6,6 +6,7 @@ public class Welcome{
 		System.out.println("Again revised - V3");
 		//once again edited
 		//edited @ remote repo itself
+		//clone copy is edited
 	}
 	
 
